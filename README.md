@@ -9,6 +9,6 @@ Dataset contains restaurant review and I have predicted whether the review is go
 Confusion matrix
 [[55 42]
  [12 91]]
-## Estimated Salary prediction
+## Purches prediction
 <p>Code link<a href="https://github.com/amritanjali123/Restaurant_review/blob/master/naive_bayes.py"> open</a></p>
 
