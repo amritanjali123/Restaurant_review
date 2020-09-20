@@ -1,6 +1,6 @@
 # Naive Bayes
 
-## Restaurant_review
+## Restaurant_review Analysis
 <p>Code link<a href="https://github.com/amritanjali123/Restaurant_review/blob/master/NLP_resturent_reviews.ipynb"> open</a></p>
 Used  NLTK,Naive Bayes
 
